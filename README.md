@@ -1,2 +1,2 @@
-# python---programs-
+# python-programs
 daily practicing python programs 
